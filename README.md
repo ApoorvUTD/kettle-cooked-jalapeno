@@ -1,4 +1,4 @@
 kettle-cooked-jalapeno
 ======================
 
-My first Git hub repository
+I will learn everyday without fail.This is just the beginning.
